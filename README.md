@@ -1,48 +1,73 @@
-<div align="center">
+# Adawat Auarayamontri
 
-# Hi, I'm Adawat.
-### Backend systems · Full-stack applications · AI workflows
+**Software Engineering Student · Thammasat University**  
+Backend Development · Full-stack Applications · AI Workflow Automation
 
-Software Engineering student at **Thammasat University**, Bangkok, Thailand.
-
-**[Explore my portfolio ↗](https://adawat-portfolio.vercel.app/)** · [View my CV](https://adawat-portfolio.vercel.app/Adawat-CV.pdf) · [Get in touch](mailto:adawat.aua@gmail.com)
-
-</div>
+[**Portfolio & project demos**](https://adawat-portfolio.vercel.app/) &nbsp; / &nbsp; [**CV**](https://adawat-portfolio.vercel.app/Adawat-CV.pdf) &nbsp; / &nbsp; [**Email**](mailto:adawat.aua@gmail.com)
 
 ---
 
-### From requirements to working software
+## Profile
 
-I enjoy connecting the pieces: understanding a workflow, designing APIs and databases, implementing features, and testing how the system behaves. My projects span data governance, desktop messaging, community platforms, and AI automation.
+I develop backend services, full-stack applications, and AI workflows. My project experience covers requirements analysis, API and database design, implementation, automated testing, and deployment.
 
-### Selected projects
+B.Eng. in Software Engineering, Thammasat University · **2024–2028 (expected)**  
+Based in Bangkok, Thailand.
 
-| Project | What I worked on | Explore |
-| :--- | :--- | :--- |
-| **ROPA Management Platform** | **System Analyst & Backend Developer** — processing records, approval workflows, role-based access and audit history. **1st Place · NETBAY Hackathon.** | [Source](https://github.com/Neroadawat/ROPA-project) · [Demo & case study](https://adawat-portfolio.vercel.app/#work) |
-| **Thai Law AI Assistant** | **n8n Workflow Developer** — LINE integration, OCR, human review and retrieval with Qdrant. **2nd Runner-up · Super AI Engineer SS5 Innovator.** | [Demo & workflow](https://adawat-portfolio.vercel.app/#deep-dive) |
-| **A-SIDE** | **Frontend & Backend Developer** — desktop messaging with React/Electron, Python, TCP/TLS, PostgreSQL and WebRTC. | [Team repository](https://github.com/ixone0/chat_A-5) |
-| **Liven** | **Backend Developer** — APIs for a residential community application using Django REST Framework and Supabase. | [Team repository](https://github.com/SETPOINT1/Liven) |
-| **Note2Brain** | **Product Owner, Backend Developer & ML Engineer** — PDF summaries, quizzes and flashcards with FastAPI and Typhoon. | [My fork](https://github.com/Neroadawat/Note2Brain) · [Original team repository](https://github.com/Looks0ng/Note2Brain) |
+## Featured work
 
-*These are team projects. The roles above describe my contributions; linked repositories may be owned by teammates.*
+### ROPA Management Platform
+**System Analyst & Backend Developer** · **1st Place, NETBAY Hackathon**
 
-### My toolkit
+A platform for managing records of personal data processing, with structured records, DPO approval, role-based access, and audit history.
 
-**Backend & data**  
-Python · FastAPI · Django REST Framework · PostgreSQL · Supabase
+- Analyzed workflows using Service Blueprint and BPMN.
+- Implemented backend services, access controls, and audit logs; contributed to automated testing and deployment.
 
-**Frontend & applications**  
-JavaScript · TypeScript · React · React Native · Electron
+**Technologies:** FastAPI, PostgreSQL, Supabase, Playwright, Robot Framework  
+[Source code](https://github.com/Neroadawat/ROPA-project) · [Project overview & video](https://adawat-portfolio.vercel.app/#work)
 
-**AI & delivery**  
-n8n · OCR · RAG · Qdrant · AWS EC2 · Amazon S3 · Playwright · Robot Framework
+### Thai Law AI Assistant
+**n8n Workflow Developer** · **2nd Runner-up, Super AI Engineer SS5 Innovator**
+
+A LINE-based assistant with an OCR ingestion workflow, human review, and retrieval-augmented generation.
+
+- Developed n8n workflows connecting LINE, OCR, Google Sheets review, and Qdrant retrieval.
+- Connected document processing and reviewed content to the answering workflow.
+
+**Technologies:** n8n, LINE, Typhoon, Google Sheets, Qdrant, RAG  
+[Workflow walkthrough](https://adawat-portfolio.vercel.app/#deep-dive) · [Video demonstration](https://adawat-portfolio.vercel.app/#work)
+
+### A-SIDE
+**Frontend & Backend Developer**
+
+A desktop messaging application supporting conversations, file sharing, and calls.
+
+- Contributed to the React/Electron client and Python backend.
+- Worked with TCP/TLS messaging, PostgreSQL storage, and WebRTC integration.
+
+**Technologies:** React, Electron, Python, TCP/TLS, PostgreSQL, WebRTC  
+[Team repository](https://github.com/ixone0/chat_A-5) · [Architecture walkthrough](https://adawat-portfolio.vercel.app/#deep-dive)
+
+## Additional projects
+
+**[Liven](https://github.com/SETPOINT1/Liven)** — Backend Developer  
+Backend APIs for a residential community application using Django REST Framework and Supabase.
+
+**[Note2Brain](https://github.com/Neroadawat/Note2Brain)** — Product Owner, Backend Developer & ML Engineer  
+PDF summaries, quizzes, and flashcards using FastAPI and Typhoon. [Original team repository](https://github.com/Looks0ng/Note2Brain); the repository on my account is a fork.
+
+*Projects listed here were developed in teams. The roles and contributions above describe my involvement.*
+
+## Technical skills
+
+| Area | Technologies |
+| :--- | :--- |
+| Backend & data | Python, FastAPI, Django REST Framework, PostgreSQL, Supabase |
+| Frontend & applications | JavaScript, TypeScript, React, React Native, Electron |
+| AI workflows | n8n, OCR, RAG, Qdrant, Typhoon |
+| Cloud & testing | AWS EC2, Amazon S3, Playwright, Robot Framework |
 
 ---
 
-<div align="center">
-
-**See the systems in action.**  
-[adawat-portfolio.vercel.app](https://adawat-portfolio.vercel.app/)
-
-</div>
+**[View portfolio](https://adawat-portfolio.vercel.app/)** · **[Download CV](https://adawat-portfolio.vercel.app/Adawat-CV.pdf)** · **[adawat.aua@gmail.com](mailto:adawat.aua@gmail.com)**
